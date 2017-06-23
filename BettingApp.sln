@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettingApp", "BettingApp\BettingApp.csproj", "{867C895A-617B-4534-9257-FD19D4DA05F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{AB25D430-075F-4571-B5FE-3CBCCB4966E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2A7631F3-D651-4C28-8A5F-E6E599B33897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{867C895A-617B-4534-9257-FD19D4DA05F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{867C895A-617B-4534-9257-FD19D4DA05F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{867C895A-617B-4534-9257-FD19D4DA05F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB25D430-075F-4571-B5FE-3CBCCB4966E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB25D430-075F-4571-B5FE-3CBCCB4966E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB25D430-075F-4571-B5FE-3CBCCB4966E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB25D430-075F-4571-B5FE-3CBCCB4966E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7631F3-D651-4C28-8A5F-E6E599B33897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7631F3-D651-4C28-8A5F-E6E599B33897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7631F3-D651-4C28-8A5F-E6E599B33897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7631F3-D651-4C28-8A5F-E6E599B33897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
